@@ -1,3 +1,12 @@
+##Content created by Rama Kaorma for the Girl Power in Engineering & IT Camp
+Slides: https://www.canva.com/design/DAGGNtu2MK0/Ot8CFHDrCZ7hlv3M6K9gGA/edit?utm_content=DAGGNtu2MK0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Booklet: https://www.canva.com/design/DAGJwjd2D-w/PaEGuMTSi6dUikjp9Tia3w/edit?utm_content=DAGJwjd2D-w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Booklet Sample Solutions: 
+
+React App written by ChatGPT as a demonstration of React.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
